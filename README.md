@@ -11,4 +11,4 @@
     3. JavaScript
 
 ---
-## Made by Electron :gorilla:heart: from **javascript30**
+## Made by Electron :gorilla::heart: from **javascript30**
